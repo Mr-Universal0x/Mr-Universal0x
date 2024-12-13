@@ -1,16 +1,17 @@
-### Hi there ☠️, My name is Mr.Rock
+### Hi there ☠️, My name Code is Mr.Rock
 #### Hacking the Digital Frontier: Tales from the Cyber Underground
 Also known as ethical hackers or security experts, these individuals use their hacking skills for legal and ethical purposes. They help organizations identify vulnerabilities in their systems and networks, and they work to protect against cyber threats.
 ### My Work :
 
 1) Penetration Testing
 2) Security Audits
-3) Security Consulting
-4) Unauthorized Access
-5) Data Theft
-6) Malware Development
-7) Denial of Service (DoS) Attacks
-8) Phishing and Social Engineering
+3) Bug Bunting 
+4) Security Consulting
+5) Unauthorized Access
+6) Data Theft
+7) Malware Development
+8) Denial of Service (DoS) Attacks
+9) Phishing and Social Engineering
 
 
 ![](https://github.com/MrRock-404/MrRock-404/blob/main/download.jpg)
