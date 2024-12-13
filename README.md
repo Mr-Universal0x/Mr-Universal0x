@@ -16,9 +16,7 @@ Also known as ethical hackers or security experts, these individuals use their h
 
 ![](https://github.com/MrRock-404/MrRock-404/blob/main/download.jpg)
 
-![](https://github.com/MrRock-404/MrRock-404/blob/main/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
 
-![](https://github.com/MrRock-404/MrRock-404/blob/main/2pjo.gif)
 
 
 
