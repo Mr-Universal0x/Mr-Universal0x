@@ -13,8 +13,8 @@ Also known as ethical hackers or security experts, these individuals use their h
 8) Denial of Service (DoS) Attacks
 9) Phishing and Social Engineering
 
+![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)
 
-!([https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg])
 
 
 
