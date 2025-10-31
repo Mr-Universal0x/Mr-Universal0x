@@ -49,3 +49,4 @@ Also known as ethical hackers or security experts, these individuals use their h
 
 <h3 align="left">Tools:</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-universal0x &show_icons=true&locale=en" alt="mr-universal0x" /></p>
