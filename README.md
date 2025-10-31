@@ -33,7 +33,7 @@ Also known as ethical hackers or security experts, these individuals use their h
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-universal0x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-universal0x" /> </p>
 
