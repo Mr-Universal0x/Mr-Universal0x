@@ -5,40 +5,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Hi there ☠️, My code name is Mr-Universal0x
+### Hi there ☠️, My code name is Mr-Universal0x
 
-<h1>
-  <span style="color:#00FF00;">👾</span>
-  <span style="color:#1E90FF;">Mr-Universal0x</span>
-</h1>
+  - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
+  - 👀 I’m interested in <b>Cyber Security && Hacking</b><br>
+  - 🌱 I’m currently learning <b>Web Development && Coding</b><br>
+  - 💬 Ask me about anything you wanna know<br>
+  - ⚡ Fun fact: I think I’m funny [He he]
+  - 📫 How to reach me<b>......</b><br>
 
-<p>
-  👯 I’m looking to collaborate on <b>EveryOne</b><br>
-  👀 I’m interested in <b>Website Development</b><br>
-  🌱 I’m currently learning <b>Website and App Development</b><br>
-  💬 Ask me about anything you wanna know<br>
-  📫 How to reach me: <b>mohammadzim81@gmail.com</b><br>
-  ⚡ Fun fact: I think I’m funny [He he]
-</p>
-
-
-### 
-
-- 👋 Hi, I’m 
-- 👀 I’m interested in Website Developement
-- 🌱 I’m currently learning Website and App Developement
-- 📫 How to reach me ...
-<!--### My Work :
-
-1) Penetration Testing
-2) Security Audits
-3) Bug Bunting 
-4) Security Consulting
-5) Unauthorized Access
-6) Data Theft
-7) Malware Development
-8) Denial of Service (DoS) Attacks
-9) Phishing and Social Engineering-->
 
 ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)
 
