@@ -5,9 +5,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Hi there ☠️, My name Code is Mr-Universal0x
+### Hi there ☠️, My code name is Mr-Universal0x
 
-### My Work :
+- 👋 Hi, I’m 
+- 👀 I’m interested in Website Developement
+- 🌱 I’m currently learning Website and App Developement
+- 📫 How to reach me ...
+<!--### My Work :
 
 1) Penetration Testing
 2) Security Audits
@@ -17,7 +21,7 @@
 6) Data Theft
 7) Malware Development
 8) Denial of Service (DoS) Attacks
-9) Phishing and Social Engineering
+9) Phishing and Social Engineering-->
 
 ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)
 
@@ -94,3 +98,4 @@
 <p align="center">⚡ “Stay curious, stay ethical — hack the future.” ⚡</p>
 
 ---
+
