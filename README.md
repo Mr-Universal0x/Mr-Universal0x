@@ -1,6 +1,9 @@
+<h1 align="center" ><b><i><font color="blue">👾Mr-Universal0x</font></i></b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=👾+Mr-Universal0x;🌊+Sailing+the+Digital+Sea;💻+Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=🌊+Sailing+the+Digital+Sea;💻+Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Hi there ☠️, My name Code is Mr-Universal0x
 
@@ -17,15 +20,13 @@
 9) Phishing and Social Engineering
 
 ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)
-<h2>🌐 Connect With Me</h2>
 
+<h2><b><i>📡Connect With Me</i></b></h2>
 <p>
   <a href="https://github.com/Mr-Universal0x" target="_blank"><img src="https://img.shields.io/badge/GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://t.me/MrUniversal0x" target="_blank"><img src="https://img.shields.io/badge/Telegram-0066FF?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-<h3> 🧰 Languages & Tools</h3>
-
-<!-- Coding Languages -->
+<h2><b><i>🧰 Languages & Tools</i></b></h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -49,49 +50,45 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
 </p>
-
-<!-- OS -->
-<h4>🖥️ Operating System</h4>
+<h2><b><i>🖥 Operating System</i></b></h2>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   </a>
 </p>
-
-<!-- Software -->
-<h4>🎨 Design Software</h4>
-<p>
-  <!-- Adobe Illustrator -->
+<h2><b><i>🎨 Design Software</i></b></h2>
+<p> 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
          alt="Adobe Illustrator"
          width="48" height="48"
          style="margin-right: 10px;" />
-  </a>
-
-  <!-- Adobe Photoshop -->
+  </a>  
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
          alt="Adobe Photoshop"
          width="48" height="48" />
   </a>
 </p>
+<h2><b><i>⚙️ GitHub Stats</i></b></h2>
 
+---
 
-
-<h2>⚙️ GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Universal0x&layout=compact&theme=default&bg_color=ffffff&title_color=0066FF&hide=C" alt="Languages" />
+<p align="center">
+  <a href="https://github.com/Mr-Universal0x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Universal0x&layout=compact&theme=react&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mr-Universal0x">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&&theme=tokyonight" alt="Mr-Universal0x"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&theme=default&bg_color=ffffff&title_color=0066FF&icon_color=0066FF" alt="Stats" />
-</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default&background=ffffff&fire=0066FF&ring=0066FF&currStreakLabel=0066FF" alt="Streaks" />
-</p>
 
 ---
 <p align="center">⚡ “Stay curious, stay ethical — hack the future.” ⚡</p>
