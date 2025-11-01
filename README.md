@@ -5,7 +5,24 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Hi there ☠️, My code name is Mr-Universal0x
+Hi there ☠️, My code name is Mr-Universal0x
+
+<h1>
+  <span style="color:#00FF00;">👾</span>
+  <span style="color:#1E90FF;">Mr-Universal0x</span>
+</h1>
+
+<p>
+  👯 I’m looking to collaborate on <b>EveryOne</b><br>
+  👀 I’m interested in <b>Website Development</b><br>
+  🌱 I’m currently learning <b>Website and App Development</b><br>
+  💬 Ask me about anything you wanna know<br>
+  📫 How to reach me: <b>mohammadzim81@gmail.com</b><br>
+  ⚡ Fun fact: I think I’m funny [He he]
+</p>
+
+
+### 
 
 - 👋 Hi, I’m 
 - 👀 I’m interested in Website Developement
