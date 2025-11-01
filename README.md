@@ -8,8 +8,8 @@
 ### Hi there ☠️, My code name is Mr-Universal0x
 
   - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
-  - 👀 I’m interested in <b>Cyber Security && Hacking</b><br>
-  - 🌱 I’m currently learning <b>Web Development && Coding</b><br>
+  - 👀 I’m interested in <b>Cyber Security && Ethical Hacking</b><br>
+  - 🌱 I’m currently learning <b>Web Development, Coding && Ethical Hacking</b><br>
   - 💬 Ask me about anything you wanna know<br>
   - ⚡ Fun fact: I think I’m funny [He he]
   - 📫 How to reach me<b>......</b><br>
