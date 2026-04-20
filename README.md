@@ -77,26 +77,35 @@
 
 ---
 
+```html
+<!-- 🔥 Clean White GitHub Stats Design -->
+
 <p align="center">
   <a href="https://github.com/Mr-Universal0x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Universal0x&layout=compact&theme=react&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Universal0x&layout=compact&theme=default&hide_border=true"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Mr-Universal0x">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&include_all_commits=true&theme=default&hide_border=true"/>
   </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&&theme=tokyonight" alt="Mr-Universal0x"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default&hide_border=true" />
 </p>
---------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&show_icons=true&locale=en&layout=compact" alt="Mr-Universal0x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v&show_icons=true&locale=en" alt="Mr-Universal0x" /></p>
+<!-- Side by side layout -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&layout=compact&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&theme=default&hide_border=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&" alt="Mr-Universal0x" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default&hide_border=true"/>
+</p>
+```
 
 -----------------------------------------
 <p align="center">⚡ “Stay curious, stay ethical — hack the future.” ⚡</p>
