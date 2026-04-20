@@ -77,37 +77,16 @@
 
 ---
 
-```html
-<!-- 🔥 Clean White GitHub Stats Design -->
-
 <p align="center">
-  <a href="https://github.com/Mr-Universal0x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Universal0x&layout=compact&theme=default&hide_border=true"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&layout=compact&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mr-Universal0x">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&include_all_commits=true&theme=default&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default&hide_border=true" />
-</p>
-
-<!-- Side by side layout -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&layout=compact&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default&hide_border=true"/>
-</p>
-```
-
------------------------------------------
+---
 <p align="center">⚡ “Stay curious, stay ethical — hack the future.” ⚡</p>
 
 ---
