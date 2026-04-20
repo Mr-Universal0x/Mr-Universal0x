@@ -90,10 +90,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&&theme=tokyonight" alt="Mr-Universal0x"/>
 </p>
+--------------------------------------
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&show_icons=true&locale=en&layout=compact" alt="Mr-Universal0x" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v&show_icons=true&locale=en" alt="Mr-Universal0x" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&" alt="Mr-Universal0x" /></p>
 
 
-
----
+-----------------------------------------
 <p align="center">⚡ “Stay curious, stay ethical — hack the future.” ⚡</p>
 
 ---
