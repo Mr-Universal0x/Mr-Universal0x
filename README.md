@@ -49,8 +49,14 @@
 </p>
 <h2><b><i>🖥 Operating System</i></b></h2>
 <p align="left">
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
   </a>
 </p>
 <h2><b><i>🎨 Design Software</i></b></h2>
