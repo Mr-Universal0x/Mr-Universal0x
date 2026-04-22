@@ -16,7 +16,7 @@
 
 
 <!-- ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)-->
-![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/4I9G.gif)
+![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif)
 
 <h2><b><i>📡Connect With Me</i></b></h2>
 <p>
