@@ -6,17 +6,18 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Hi there ☠️, My code name is Mr-Universal0x
+<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif" width="220" align="right"/>
 
-  - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
-  - 👀 I’m interested in <b>Cyber Security && Ethical Hacking</b><br>
-  - 🌱 I’m currently learning <b>Web Development, Coding && Ethical Hacking</b><br>
-  - 💬 Ask me about anything you wanna know<br>
-  - ⚡ Fun fact: I think I’m funny [He he he]
-  - 📫 How to reach me<b>......</b><br>
+ - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
+ - 👀 I’m interested in <b>Cyber Security && Ethical Hacking</b><br>
+ - 🌱 I’m currently learning <b>Web Development, Coding && Ethical Hacking</b><br>
+ - 💬 Ask me about anything you wanna know<br>
+ - ⚡ Fun fact: I think I’m funny [He he he]<br>
+ - 📫 How to reach me <b>......</b><br>
 
+<br clear="right"/>
 
 <!-- ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)-->
-![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif)
 
 <h2><b><i>📡Connect With Me</i></b></h2>
 <p>
