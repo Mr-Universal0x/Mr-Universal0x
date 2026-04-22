@@ -4,7 +4,8 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif" width="220" align=""/>
+<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif" width="" align=""/>
+
 ### Hi there ☠️, My code name is Mr-Universal0x
 
 
