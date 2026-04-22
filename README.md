@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=🌊+Sailing+the+Digital+Sea;💻+Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/line.gif" height="20" width="100%">
 <img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif" width="" align=""/>
 
 ### Hi there ☠️, My code name is Mr-Universal0x
