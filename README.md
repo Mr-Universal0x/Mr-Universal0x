@@ -1,14 +1,14 @@
-<h1 align="center" ><b><i><font color="blue">👾Mr-Universal0x</font></i></b></h1>
+<h1 align="center" ><b><i><font color="blue">👾Saikot0x</font></i></b></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=🌊+Sailing+the+Digital+Sea;💻+Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
 </p>
 
-<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/line.gif" height="20" width="100%">
-<img src="https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/224.gif" width="" align=""/>
+<img src="https://github.com/Saikot0x/Saikot0x/blob/main/line.gif" height="20" width="100%">
+<img src="https://github.com/Saikot0x/Saikot0x/blob/main/224.gif" width="" align=""/>
 
 ---
 
-### Hi there ☠️, My code name is Mr-Universal0x
+### Hi there ☠️, My code name is Saikot0x
 
 
  - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
@@ -24,8 +24,8 @@
 
 <h2><b><i>📡Connect With Me</i></b></h2>
 <p>
-  <a href="https://github.com/Mr-Universal0x" target="_blank"><img src="https://img.shields.io/badge/GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/MrUniversal0x" target="_blank"><img src="https://img.shields.io/badge/Telegram-0066FF?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/Saikot0x" target="_blank"><img src="https://img.shields.io/badge/GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/Saikot0x" target="_blank"><img src="https://img.shields.io/badge/Telegram-0066FF?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 <h2><b><i>🧰 Languages & Tools</i></b></h2>
 <p align="left">
@@ -82,12 +82,12 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Universal0x&layout=compact&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Universal0x&show_icons=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikot0x&layout=compact&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saikot0x&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Universal0x&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikot0x&theme=default"/>
 </p>
 
 ---
